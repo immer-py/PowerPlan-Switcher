@@ -1,0 +1,1 @@
+powershell 'C:\Dev\Git\PowerPlan` Switcher\pwrswtch.ps1' -power 2
