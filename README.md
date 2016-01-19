@@ -9,7 +9,7 @@ No hassle with finding options in system tray or control panel.
 
 1. **Save** the `.ps1` file in desired location
 
-2. **Update path** in `.bat` files acordingly
+2. **Update path** in `.bat` files accordingly
 
 3. **Create shortcuts** (`.lnk`) files pointing to those `.bat` files
 
